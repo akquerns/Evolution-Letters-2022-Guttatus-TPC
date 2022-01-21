@@ -1,0 +1,16 @@
+﻿Range,Topt,Latitude,MAT,TB_PP,Seasonality
+Native,12,40,10,2,2
+Native,10,45,8,4,4
+Native,8,50,6,5,6
+Native,6,55,4,6,8
+Native,4,60,2,11,10
+Invasive,9,45,8,6.5,8
+Invasive,8,50,7,5,7
+Invasive,7,52,6,4,5
+Invasive,6,53,4,4,4
+Invasive,5,55,4,1,4.5
+NSInv,8,45,8,5.5,8
+NSInv,7,50,7,5,7
+NSInv,7,52,6,5,5
+NSInv,7,53,4,4,4
+NSInv,6.5,55,4,4,4
