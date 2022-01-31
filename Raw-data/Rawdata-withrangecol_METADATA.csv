@@ -3,7 +3,7 @@ Round,Character,Numbered 3-5; separate occurences of chamber use which happened 
 Population,Character,"Original population code--created prior to selecting populations for use in thermal performance experiments. ""I"" indicates invasive UK, and ""N"" incidates native North America."
 Range,Character,"Range code, where ""I"" indicates invasive and ""N"" indicates native North America"
 Family,Character,Original family code--created prior to selecting populations for use in thermal performance experiments. Numbered 35-326.
-Replicate,Numeric,"Indicates the numbered replicate cutting of each family taken within a round of chamber use. Within each round, two replicate cuttings were subjected to one of three temperature treatments (i.e. 0.01+0.02 were subjected to temp. A, 0.03+0.04 to temp. B, and 0.05+0.06 to temp. C)"
+Replicate,Numeric,"Indicates the numbered replicate cutting of each family taken within a round of chamber use. Within each round, two replicate cuttings were subjected to one of three temperature treatments (i.e. 0.01+0.02 were subjected to temp. A, 0.03+0.04 to temp. B, and 0.05+0.06 to temp. C, etc.)"
 daytemp,Numeric,The 16-hour daytime temperature (°C) treatment
 nighttemp,Numeric,The 8 hour nighttime temperature (°C) treatment
 StemIN,Numeric,The length (cm) of the primary stem of a replicate cutting prior to being subjected to a temperature treatment (but after receiving a 2-week establishment period)
