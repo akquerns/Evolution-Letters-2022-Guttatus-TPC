@@ -1,5 +1,7 @@
 # Evolution-Letters-2022-Guttatus-TPC
 
-R code and data for Querns et al. (2022), which is in early view at Evolution Letters (10.1002/evl3.275). An earlier version of this manuscript is available at bioRxiv (https://doi.org/10.1101/2020.09.10.291252)
+R code and data for Querns et al. 2022 (10.1002/evl3.275).
+
+Scripts contained within "4_TPC-model" were written/edited by Rachel Wooliver.
 
 Please follow the scripts in numbered order.
